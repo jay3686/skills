@@ -18,3 +18,6 @@ cp -r skills/gmail-cleanup ~/.claude/skills/
 
 ### Run
 Start Claude Code and say: `Use the gmail-cleanup skill to clean my Gmail.`
+
+### Collaborate
+Spot a better exclusion or a new pitfall? Sign up for a free GitHub account (https://github.com/signup), fork this repo and open a pull request, or send your GitHub username to Jay to be added as a collaborator.
